@@ -2,4 +2,4 @@
 Assignments and miniprojects
 
 #### Module-4: Neural Networks
-* Mini Project-1:Image Classification MLP  - [view code here](.CDS/Module4/Image_Classification_MLP.ipynb)
+* Mini Project-1:Image Classification MLP  - [view code here](https://github.com/SSDivyaRavali/CDS/blob/main/Module4/Image_Classification_MLP_GTSDB.ipynb)
